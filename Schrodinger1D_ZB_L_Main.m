@@ -127,7 +127,7 @@ end
 z=0; V0=CBOt(1); Eg=Egt(1);Dso=Dsot(1);
 %Epsi=Epsit(1); F=Ft(1);
 g1=g1t(1); g2=g2t(1); g3=g3t(1); EP_K=EPt_K(1); %EP_L=EPt_L(1); %me(1)=met(1);% mhh(1)=mhh_t(1);
-ac=0; av=0; bv=0; exx=0; ezz=0;
+ac=act(1); av=avt(1); bv=bvt(1); exx=exxt(1); ezz=ezzt(1);
 
 for i=1:length(zt)
     zv  =  (z(end)+dz) : dz : (z(end) + zt(i)) ;
