@@ -8,3 +8,5 @@ Two additionnal codes are made in order to sweep the temperature AND/OR to sweep
 A database of the most common Zinc-Blende semiconductor III-V , IV-IV and II-VI is provided and can be adjusted.
 
 A strain model is included.
+
+![image](https://user-images.githubusercontent.com/35040499/113293061-976bcf80-92f5-11eb-8c63-1b466702c5ab.png)
